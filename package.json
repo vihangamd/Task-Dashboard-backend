@@ -2,7 +2,7 @@
   "scripts": {
     "mock-api": "json-server --watch db.json"
   },
-  "devDependencies": {
+  "dependencies": {
     "json-server": "^1.0.0-beta.3"
   }
 }
